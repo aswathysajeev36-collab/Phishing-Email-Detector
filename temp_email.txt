@@ -1,0 +1,31 @@
+From: "IT Support" <it-support@secure-bank-alerts.com>
+To: <victim.user@gmail.com>
+Date: Tue, 12 Dec 2025 10:14:22 +0530
+Message-ID: <20251212101422.8734@mail.secure-bank-alerts.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Return-Path: <alerts@secure-bank-alerts.com>
+Received: from unknown (HELO mail.secure-bank-alerts.com) (185.203.116.45)
+by mx.google.com with ESMTP id x12si1234567qke.123.2025.12.12.10.14.24
+for <victim.user@gmail.com>;
+Tue, 12 Dec 2025 10:14:24 +0530
+Received-SPF: fail (google.com: domain of alerts@secure-bank-alerts.com does not designate 185.203.116.45 as permitted sender)
+Authentication-Results: mx.google.com;
+spf=fail;
+dkim=none;
+dmarc=fail
+
+Dear Customer,
+
+We detected unusual activity in your bank account.
+To prevent temporary suspension, please verify your identity immediately.
+
+Click the link below to secure your account:
+http://secure-bank-alerts.com/verify/login
+
+Failure to verify within 24 hours will result in account suspension.
+
+Thank you,
+IT Security Team
+Secure Bank
